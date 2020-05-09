@@ -18,7 +18,7 @@ If username contains spaces, put the project in another directory without space 
 2. Configure LTspice Library Search path :
 - run LTspice
 - select Menu Tools -> Control Panel
-- in the Library Search section, add path to the ModelsForKicad which is located in the directory \libForKicad\ModelsForKicad within KiCadToLTspice directory  (for example : C:\Users\username\Documents\KiCadToLTspice\libForKicad\ModelsForKicad where username is your windows user name).
+- in the Library Search section, add path to the ModelsForKicad which is located in the directory \libForKicad\ModelsForKicad within KiCadToLTspice directory  (for example : C:\Users\\**username**\Documents\KiCadToLTspice\libForKicad\ModelsForKicad where username is your windows user name).
 3. Add **KiCadToLTspice\libForKicad\** libraries in the KiCad symbol editor.
 
 # Script configuration
