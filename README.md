@@ -6,6 +6,10 @@ This script allows you to :
 - adjust parameters for parametric simulation,
 - configure spice netlist for Monte Carlo and Worst Case analysis.
 
+# Prerequisites
+## KiCad installed.
+## LTspiceXVII installed.
+
 # Installation
 ## On Windows
 1. Install Python 3.8 or above (with the Microsoft Store or https://www.python.org/downloads/windows/)
@@ -19,7 +23,7 @@ If username contains spaces, put the project in another directory without space 
 
 ## On Mac OS X - Linux
 Python script must be adapted.
-Contact me if you do it.
+Contact me when you will have done this.
 
 
 
