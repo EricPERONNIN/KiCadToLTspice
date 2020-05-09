@@ -1,0 +1,119 @@
+EESchema-DOCLIB  Version 2.0
+$CMP battery
+D  Voltage Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+$ENDCMP
+$CMP cell
+D  Voltage Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+$ENDCMP
+$CMP DIAC
+D  Generic Bi-directional Trigger Device symbol for use with a model that you supply
+$ENDCMP
+$CMP DIP10
+D  Generic Symbol for use with subcircuts that you supply.
+$ENDCMP
+$CMP DIP14
+D  Generic Symbol for use with subcircuts that you supply.
+$ENDCMP
+$CMP DIP16
+D  Generic Symbol for use with subcircuts that you supply.
+$ENDCMP
+$CMP DIP20
+D  Generic Symbol for use with subcircuts that you supply.
+$ENDCMP
+$CMP DIP8
+D  Generic Symbol for use with subcircuts that you supply.
+$ENDCMP
+$CMP Epoly
+D  Voltage dependent voltage source with two terminals.  Useful for drafting schematic generating archaic voltage controlled syntax.
+$ENDCMP
+$CMP EuropeanCap
+D  Polarized Capacitor
+$ENDCMP
+$CMP EuropeanPolcap
+D  Polarized Capacitor
+$ENDCMP
+$CMP EuropeanResistor
+D  A Resistor(European style graphic)
+$ENDCMP
+$CMP fixedind
+D  An inductor that cannot be edited.  Typically used with the 1533/1534
+$ENDCMP
+$CMP Gpoly
+D  Voltage dependent current source with two terminals.  Useful for drafting schematic generating archaic voltage controlled syntax.
+$ENDCMP
+$CMP jumper
+D  A wire jumper.  This component lets you give the same net two different names
+$ENDCMP
+$CMP LT5400-1
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5400-2
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5400-3
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5400-4
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5400-5
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5400-6
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5400-7
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5400-8
+D  Spice library :  LT5400.lib  Quad Matched Resistor Network
+$ENDCMP
+$CMP LT5401
+D  Spice library :  LT5400.lib  Matched Resistor Network for Precision Amplifiers
+$ENDCMP
+$CMP NE555
+D  Spice library :  NE555.sub  An idealized 555 timer model.
+$ENDCMP
+$CMP neonbulb
+D  Spice library :  neonbulb  Parameterized Neon Bulb
+$ENDCMP
+$CMP NIGBT
+D  N-Channel IGBT symbol for a model you supply.
+$ENDCMP
+$CMP pentode
+D  This symbol is for use with a subcircuit macromodel that you supply.
+$ENDCMP
+$CMP PIGBT
+D  P-Channel IGBT symbol for a model you supply.
+$ENDCMP
+$CMP SCR
+D  Generic SCR symbol for use with a model that you supply.
+$ENDCMP
+$CMP signal
+D  Voltage Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+$ENDCMP
+$CMP tetrode
+D  This symbol is for use with a subcircuit macromodel that you supply.
+$ENDCMP
+$CMP TowTom2
+D  2nd Order Tow-Thomas Filter building block.  Needs .lib TowTom2.sub & .params R=10K C=160p GBW1=10Meg GBW2=15Meg Aol=100K
+$ENDCMP
+$CMP TRIAC
+D  Generic TRIAC symbol for use with a model that you supply.
+$ENDCMP
+$CMP triode
+D  This symbol is for use with a subcircuit macromodel that you supply.
+$ENDCMP
+$CMP urc
+D  Uniform RC-line.  Intended for interconnection on IC's but rarely used.
+$ENDCMP
+$CMP urc2
+D  Uniform RC-line.  Intended for interconnection on IC's but rarely used.
+$ENDCMP
+$CMP xtal
+D  Piezoelectric crystal.  Set C, Lser and Cpar to set series and parallel resonances.  This is actually the same as a capacitor.
+$ENDCMP
+$CMP xvaristor
+D  Generic varistor symbol for use with a model that you supply.
+$ENDCMP
+#End Doc Library

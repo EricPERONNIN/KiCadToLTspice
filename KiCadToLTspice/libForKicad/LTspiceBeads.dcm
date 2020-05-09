@@ -1,0 +1,833 @@
+EESchema-DOCLIB  Version 2.0
+$CMP 782763621_WE-CBA_1206
+D Würth Elektronik 0.0032µ Ipk=2A Rser=0.064Ohm Rpar=620Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 74279221100_WE-MPSB_1206
+D Würth Elektronik 0.013µ Ipk=10.5A Rser=3Ohm Rpar=35Ohm Cpar=0pF
+$ENDCMP
+$CMP 7427920_WE-CBF_0805
+D Würth Elektronik 0.016µ Ipk=0.6A Rser=0.15Ohm Rpar=19Ohm Cpar=0.235pF
+$ENDCMP
+$CMP 7427922808_WE-MPSB_0603
+D Würth Elektronik 0.0175µ Ipk=9.5A Rser=0.005Ohm Rpar=18Ohm Cpar=0pF
+$ENDCMP
+$CMP 7427521_Diff
+D Würth Elektronik 0.018µ Ipk=5A Rser=0.00078Ohm Rpar=340Ohm Cpar=0.25pF
+$ENDCMP
+$CMP 742792010_WE-CBF_0805
+D Würth Elektronik 0.018µ Ipk=3A Rser=0.017Ohm Rpar=12Ohm Cpar=0.001pF
+$ENDCMP
+$CMP 74279268_WE-CBF_0603
+D Würth Elektronik 0.021µ Ipk=0.5A Rser=0.023Ohm Rpar=0.078Ohm Cpar=0.256pF
+$ENDCMP
+$CMP 7427927110_WE-CBF_0402
+D Würth Elektronik 0.022µ Ipk=0.5A Rser=0.044Ohm Rpar=13Ohm Cpar=1.6pF
+$ENDCMP
+$CMP 742792011_WE-CBF_0805
+D Würth Elektronik 0.023µ Ipk=3A Rser=0.03Ohm Rpar=23Ohm Cpar=0.241pF
+$ENDCMP
+$CMP 782423100_WE-CBA_0402
+D Würth Elektronik 0.0232µ Ipk=1.5A Rser=0.023Ohm Rpar=14Ohm Cpar=0.057pF
+$ENDCMP
+$CMP 742692001_WE-TMSB_0201
+D Würth Elektronik 0.025µ Ipk=0.5A Rser=0.1Ohm Rpar=12Ohm Cpar=0.01pF
+$ENDCMP
+$CMP 742792001_WE-TMSB_0201
+D Würth Elektronik 0.025µ Ipk=0.5A Rser=0.07Ohm Rpar=12Ohm Cpar=0.01pF
+$ENDCMP
+$CMP 742792110_WE-CBF_1206
+D Würth Elektronik 0.029µ Ipk=3A Rser=0.01Ohm Rpar=90Ohm Cpar=0.001pF
+$ENDCMP
+$CMP 742792620_WE-CBF_0603
+D Würth Elektronik 0.034µ Ipk=0.5A Rser=0.46Ohm Rpar=120Ohm Cpar=0.68pF
+$ENDCMP
+$CMP 742792701_WE-CBF_0402
+D Würth Elektronik 0.04µ Ipk=0.5A Rser=0.016Ohm Rpar=10.9Ohm Cpar=3.2pF
+$ENDCMP
+$CMP 742792021_WE-CBF_0805
+D Würth Elektronik 0.047µ Ipk=6A Rser=0.03Ohm Rpar=37Ohm Cpar=0.275pF
+$ENDCMP
+$CMP 782853200_WE-CBA_0805
+D Würth Elektronik 0.05µ Ipk=6A Rser=0.004Ohm Rpar=33Ohm Cpar=1pF
+$ENDCMP
+$CMP 7427927130_WE-CBF_0402
+D Würth Elektronik 0.053µ Ipk=0.3A Rser=0.023Ohm Rpar=108Ohm Cpar=0.209pF
+$ENDCMP
+$CMP 74279201_WE-CBF_0805
+D Würth Elektronik 0.054µ Ipk=0.4A Rser=0.15Ohm Rpar=70Ohm Cpar=0.178pF
+$ENDCMP
+$CMP 742792112_WE-CBF_1206
+D Würth Elektronik 0.064µ Ipk=3A Rser=0.006Ohm Rpar=56Ohm Cpar=0.197pF
+$ENDCMP
+$CMP 7427921_WE-CBF_1206
+D Würth Elektronik 0.066µ Ipk=0.5A Rser=0.007Ohm Rpar=56Ohm Cpar=0.001pF
+$ENDCMP
+$CMP 742792604_WE-CBF_0603
+D Würth Elektronik 0.066µ Ipk=1A Rser=0.05Ohm Rpar=42Ohm Cpar=0.07pF
+$ENDCMP
+$CMP 742792603_WE-CBF_0603
+D Würth Elektronik 0.068µ Ipk=4A Rser=0.017Ohm Rpar=44Ohm Cpar=0.144pF
+$ENDCMP
+$CMP 742792605_WE-CBF_0603
+D Würth Elektronik 0.07µ Ipk=0.5A Rser=0.016Ohm Rpar=45Ohm Cpar=0.073pF
+$ENDCMP
+$CMP 742792601_WE-CBF_0603
+D Würth Elektronik 0.073µ Ipk=1A Rser=0.03Ohm Rpar=51Ohm Cpar=0.092pF
+$ENDCMP
+$CMP 742792005_WE-CBF_0805
+D Würth Elektronik 0.075µ Ipk=0.7A Rser=0.008Ohm Rpar=14Ohm Cpar=0.5pF
+$ENDCMP
+$CMP 74279210_WE-CBF_1206
+D Würth Elektronik 0.075µ Ipk=3A Rser=0.01Ohm Rpar=51Ohm Cpar=0.024pF
+$ENDCMP
+$CMP 74279206_WE-CBF_0805
+D Würth Elektronik 0.08µ Ipk=3A Rser=0.03Ohm Rpar=59Ohm Cpar=0.2pF
+$ENDCMP
+$CMP 74279208_WE-CBF_0805
+D Würth Elektronik 0.08µ Ipk=0.5A Rser=0.15Ohm Rpar=64Ohm Cpar=0.1pF
+$ENDCMP
+$CMP 782853270_WE-CBA_0805
+D Würth Elektronik 0.083µ Ipk=4A Rser=0.011Ohm Rpar=38Ohm Cpar=0.052pF
+$ENDCMP
+$CMP 742792117_WE-CBF_1206
+D Würth Elektronik 0.084µ Ipk=6A Rser=0.007Ohm Rpar=73Ohm Cpar=0.083pF
+$ENDCMP
+$CMP 742792015_WE-CBF_0805
+D Würth Elektronik 0.089µ Ipk=0.3A Rser=0.085Ohm Rpar=260Ohm Cpar=0.667pF
+$ENDCMP
+$CMP 742792111_WE-CBF_1206
+D Würth Elektronik 0.09µ Ipk=3A Rser=0.012Ohm Rpar=30Ohm Cpar=0.001pF
+$ENDCMP
+$CMP 7427927140_WE-CBF_0402
+D Würth Elektronik 0.092µ Ipk=0.2A Rser=0.051Ohm Rpar=65Ohm Cpar=0.54pF
+$ENDCMP
+$CMP 742792012_WE-CBF_0805
+D Würth Elektronik 0.093µ Ipk=4A Rser=0.01Ohm Rpar=80Ohm Cpar=0.67pF
+$ENDCMP
+$CMP 74279228260_WE-MPSB_0603
+D Würth Elektronik 0.095µ Ipk=6.5A Rser=0.008Ohm Rpar=38Ohm Cpar=1.6pF
+$ENDCMP
+$CMP 742792607_WE-CBF_0603
+D Würth Elektronik 0.1µ Ipk=0.3A Rser=0.147Ohm Rpar=300Ohm Cpar=0.738pF
+$ENDCMP
+$CMP 742792608_WE-CBF_0603
+D Würth Elektronik 0.1µ Ipk=0.3A Rser=0.2Ohm Rpar=75Ohm Cpar=0.04pF
+$ENDCMP
+$CMP 74279260_WE-CBF_0603
+D Würth Elektronik 0.104µ Ipk=0.3A Rser=0.25Ohm Rpar=85Ohm Cpar=0.212pF
+$ENDCMP
+$CMP 74279276_WE-CBF_0402
+D Würth Elektronik 0.106µ Ipk=0.3A Rser=0.152Ohm Rpar=71Ohm Cpar=0.063pF
+$ENDCMP
+$CMP 74279274_WE-CBF_0402
+D Würth Elektronik 0.108µ Ipk=0.3A Rser=0.25Ohm Rpar=39Ohm Cpar=0.266pF
+$ENDCMP
+$CMP 7427922_WE-CBF_1206
+D Würth Elektronik 0.11µ Ipk=0.5A Rser=0.032Ohm Rpar=110Ohm Cpar=0.09pF
+$ENDCMP
+$CMP 7427927170_WE-CBF_0402
+D Würth Elektronik 0.12µ Ipk=0.4A Rser=0.256Ohm Rpar=655Ohm Cpar=0.6pF
+$ENDCMP
+$CMP 782423700_WE-CBA_0402
+D Würth Elektronik 0.125µ Ipk=1.2A Rser=0.0657Ohm Rpar=154Ohm Cpar=0.349pF
+$ENDCMP
+$CMP 742792064_WE-CBF_0805
+D Würth Elektronik 0.128µ Ipk=0.3A Rser=0.2Ohm Rpar=270Ohm Cpar=0.931pF
+$ENDCMP
+$CMP 74279261_WE-CBF_0603
+D Würth Elektronik 0.132µ Ipk=0.2A Rser=0.3Ohm Rpar=321Ohm Cpar=0.496pF
+$ENDCMP
+$CMP 742792062_WE-CBF_0805
+D Würth Elektronik 0.138µ Ipk=0.5A Rser=0.2Ohm Rpar=137Ohm Cpar=0.306pF
+$ENDCMP
+$CMP 782632620_WE-CBA_0603
+D Würth Elektronik 0.14µ Ipk=0.5A Rser=0.056Ohm Rpar=90Ohm Cpar=0.64pF
+$ENDCMP
+$CMP 742792063_WE-CBF_0805
+D Würth Elektronik 0.141µ Ipk=3A Rser=0.025Ohm Rpar=100Ohm Cpar=0.712pF
+$ENDCMP
+$CMP 742792114_WE-CBF_1206
+D Würth Elektronik 0.145µ Ipk=3A Rser=0.01Ohm Rpar=52Ohm Cpar=0.04pF
+$ENDCMP
+$CMP 742792602_WE-CBF_0603
+D Würth Elektronik 0.148µ Ipk=3A Rser=0.04Ohm Rpar=90Ohm Cpar=0.275pF
+$ENDCMP
+$CMP 7427924_WE-CBF_1806
+D Würth Elektronik 0.15µ Ipk=0.4A Rser=0.075Ohm Rpar=125Ohm Cpar=0.056pF
+$ENDCMP
+$CMP 742792609_WE-CBF_0603
+D Würth Elektronik 0.15µ Ipk=3A Rser=0.025Ohm Rpar=35Ohm Cpar=0.85pF
+$ENDCMP
+$CMP 74279228600_WE-MPSB_0603
+D Würth Elektronik 0.165µ Ipk=5.1A Rser=0.015Ohm Rpar=100Ohm Cpar=1pF
+$ENDCMP
+$CMP 742792410_WE-CBF_1806
+D Würth Elektronik 0.17µ Ipk=0.4A Rser=0.01Ohm Rpar=95Ohm Cpar=0.055pF
+$ENDCMP
+$CMP 7427927280_WE-CBF_0402
+D Würth Elektronik 0.17µ Ipk=0.2A Rser=0.131Ohm Rpar=135Ohm Cpar=0.4pF
+$ENDCMP
+$CMP 74279223560_WE-MPSB_1612
+D Würth Elektronik 0.173µ Ipk=10A Rser=0.0016Ohm Rpar=74.3Ohm Cpar=0.82pF
+$ENDCMP
+$CMP 7427927370_WE-CBF_0402
+D Würth Elektronik 0.178µ Ipk=1.2A Rser=0.1Ohm Rpar=73Ohm Cpar=0.38pF
+$ENDCMP
+$CMP 74279243_WE-CBF_1806
+D Würth Elektronik 0.18µ Ipk=3A Rser=0.015Ohm Rpar=154Ohm Cpar=0.044pF
+$ENDCMP
+$CMP 742692002_WE-TMSB_0201
+D Würth Elektronik 0.181µ Ipk=0.3A Rser=0.00024Ohm Rpar=73Ohm Cpar=0.077pF
+$ENDCMP
+$CMP 742792606_WE-CBF_0603
+D Würth Elektronik 0.19µ Ipk=0.2A Rser=0.248Ohm Rpar=500Ohm Cpar=0.8pF
+$ENDCMP
+$CMP 74279270_WE-CBF_0402
+D Würth Elektronik 0.194µ Ipk=0.3A Rser=0.118Ohm Rpar=122Ohm Cpar=0.153pF
+$ENDCMP
+$CMP 742792115_WE-CBF_1206
+D Würth Elektronik 0.2µ Ipk=4A Rser=0.016Ohm Rpar=122Ohm Cpar=0.312pF
+$ENDCMP
+$CMP 742792621_WE-CBF_0603
+D Würth Elektronik 0.2µ Ipk=0.55A Rser=0.2Ohm Rpar=408Ohm Cpar=0.585pF
+$ENDCMP
+$CMP 7427927112_WE-CBF_0402
+D Würth Elektronik 0.2µ Ipk=0.35A Rser=0.34Ohm Rpar=850Ohm Cpar=0.337pF
+$ENDCMP
+$CMP 74279211_WE-CBF_1206
+D Würth Elektronik 0.204µ Ipk=0.3A Rser=0.037Ohm Rpar=256Ohm Cpar=0.274pF
+$ENDCMP
+$CMP 782633620_WE-CBA_0603
+D Würth Elektronik 0.21µ Ipk=3A Rser=0.035Ohm Rpar=90Ohm Cpar=0.6pF
+$ENDCMP
+$CMP 782963560_WE-CBA_1806
+D Würth Elektronik 0.21µ Ipk=5A Rser=0.0042Ohm Rpar=74.5Ohm Cpar=0.102pF
+$ENDCMP
+$CMP 782963820_WE-CBA_1806
+D Würth Elektronik 0.213µ Ipk=3.5A Rser=0.0266Ohm Rpar=87.1Ohm Cpar=0.127pF
+$ENDCMP
+$CMP 782631101_WE-CBA_0603
+D Würth Elektronik 0.215µ Ipk=0.5A Rser=0.0126Ohm Rpar=612Ohm Cpar=0.65pF
+$ENDCMP
+$CMP 742792711_WE-CBF_0402
+D Würth Elektronik 0.22µ Ipk=0.2A Rser=0.15Ohm Rpar=159Ohm Cpar=0.38pF
+$ENDCMP
+$CMP 742792151_WE-CBF_1206
+D Würth Elektronik 0.223µ Ipk=0.3A Rser=0.015Ohm Rpar=100Ohm Cpar=0.145pF
+$ENDCMP
+$CMP 74279245_WE-CBF_1806
+D Würth Elektronik 0.23µ Ipk=4A Rser=0.02Ohm Rpar=145Ohm Cpar=0.006pF
+$ENDCMP
+$CMP 7427930_WE-PBF_4030
+D Würth Elektronik 0.23µ Ipk=6A Rser=0.00037Ohm Rpar=45Ohm Cpar=0.01pF
+$ENDCMP
+$CMP 782853680_WE-CBA_0805
+D Würth Elektronik 0.23µ Ipk=3A Rser=0.013Ohm Rpar=110Ohm Cpar=0.83pF
+$ENDCMP
+$CMP 74279215_WE-CBF_1206
+D Würth Elektronik 0.241µ Ipk=3A Rser=0.015Ohm Rpar=128Ohm Cpar=0.162pF
+$ENDCMP
+$CMP 782853910_WE-CBA_0805
+D Würth Elektronik 0.241µ Ipk=2A Rser=0.028Ohm Rpar=105Ohm Cpar=0.814pF
+$ENDCMP
+$CMP 7427521_Single
+D Würth Elektronik 0.25µ Ipk=5A Rser=0.00078Ohm Rpar=115Ohm Cpar=0.0005pF
+$ENDCMP
+$CMP 74279207_WE-CBF_0805
+D Würth Elektronik 0.25µ Ipk=1A Rser=0.15Ohm Rpar=220Ohm Cpar=0.526pF
+$ENDCMP
+$CMP 742792150_WE-CBF_1206
+D Würth Elektronik 0.252µ Ipk=4A Rser=0.016Ohm Rpar=88Ohm Cpar=0.072pF
+$ENDCMP
+$CMP 74279267_WE-CBF_0603
+D Würth Elektronik 0.258µ Ipk=0.5A Rser=0.3Ohm Rpar=75Ohm Cpar=0.25pF
+$ENDCMP
+$CMP 742792731_WE-CBF_0402
+D Würth Elektronik 0.26µ Ipk=1.2A Rser=0.08Ohm Rpar=130Ohm Cpar=0.38pF
+$ENDCMP
+$CMP 742792411_WE-CBF_1806
+D Würth Elektronik 0.27µ Ipk=3A Rser=0.012Ohm Rpar=110Ohm Cpar=0.15pF
+$ENDCMP
+$CMP 7427927115_WE-CBF_0402
+D Würth Elektronik 0.27µ Ipk=0.1A Rser=0.144Ohm Rpar=163Ohm Cpar=0.36pF
+$ENDCMP
+$CMP 74279241_WE-CBF_1806
+D Würth Elektronik 0.272µ Ipk=0.4A Rser=0.017Ohm Rpar=82Ohm Cpar=0.046pF
+$ENDCMP
+$CMP 74279277_WE-CBF_0402
+D Würth Elektronik 0.273µ Ipk=0.3A Rser=0.35Ohm Rpar=102Ohm Cpar=0.255pF
+$ENDCMP
+$CMP 782763820_WE-CBA_1206
+D Würth Elektronik 0.275µ Ipk=4A Rser=0.0189Ohm Rpar=120Ohm Cpar=0.4pF
+$ENDCMP
+$CMP 74279220800_WE-MPSB_0805
+D Würth Elektronik 0.28µ Ipk=4A Rser=0.018Ohm Rpar=82Ohm Cpar=0.49pF
+$ENDCMP
+$CMP 742792510_WE-CBF_1812
+D Würth Elektronik 0.284µ Ipk=6A Rser=0.01Ohm Rpar=100Ohm Cpar=0.101pF
+$ENDCMP
+$CMP 74279226101_WE-MPSB_1812
+D Würth Elektronik 0.285µ Ipk=8A Rser=0.0043Ohm Rpar=145.3Ohm Cpar=0.143pF
+$ENDCMP
+$CMP 74279250_WE-CBF_1812
+D Würth Elektronik 0.285µ Ipk=0.3A Rser=0.01Ohm Rpar=100Ohm Cpar=0.067pF
+$ENDCMP
+$CMP 74279224101_WE-MPSB_2220
+D Würth Elektronik 0.288µ Ipk=7A Rser=0.0033Ohm Rpar=152Ohm Cpar=0.078pF
+$ENDCMP
+$CMP 7427925_WE-CBF_1812
+D Würth Elektronik 0.293µ Ipk=0.3A Rser=0.02Ohm Rpar=192Ohm Cpar=0.42pF
+$ENDCMP
+$CMP 7427927311_WE-CBF_0402
+D Würth Elektronik 0.3µ Ipk=1.2A Rser=0.08Ohm Rpar=135Ohm Cpar=0.3pF
+$ENDCMP
+$CMP 74279228111_WE-MPSB_0603
+D Würth Elektronik 0.32µ Ipk=4.1A Rser=0.02Ohm Rpar=120Ohm Cpar=2pF
+$ENDCMP
+$CMP 742792625_WE-CBF_0603
+D Würth Elektronik 0.325µ Ipk=2A Rser=0.055Ohm Rpar=140Ohm Cpar=0.56pF
+$ENDCMP
+$CMP 7427927310_WE-CBF_0402
+D Würth Elektronik 0.33µ Ipk=2A Rser=0.012Ohm Rpar=12Ohm Cpar=2pF
+$ENDCMP
+$CMP 74279225101_WE-MPSB_3312
+D Würth Elektronik 0.346µ Ipk=10A Rser=0.0024Ohm Rpar=152.6Ohm Cpar=0.078pF
+$ENDCMP
+$CMP 742792511_WE-CBF_1812
+D Würth Elektronik 0.35µ Ipk=3A Rser=0.011Ohm Rpar=200Ohm Cpar=0.45pF
+$ENDCMP
+$CMP 742692003_WE-TMSB_0201
+D Würth Elektronik 0.36µ Ipk=0.2A Rser=0.25Ohm Rpar=150.36Ohm Cpar=0.078pF
+$ENDCMP
+$CMP 7427927121_WE-CBF_0402
+D Würth Elektronik 0.36µ Ipk=0.2A Rser=0.594Ohm Rpar=1510Ohm Cpar=0.405pF
+$ENDCMP
+$CMP 74279203_WE-CBF_0805
+D Würth Elektronik 0.364µ Ipk=0.3A Rser=0.25Ohm Rpar=240Ohm Cpar=0.812pF
+$ENDCMP
+$CMP 74279221111_WE-MPSB_1206
+D Würth Elektronik 0.37µ Ipk=5.4A Rser=15Ohm Rpar=125Ohm Cpar=3pF
+$ENDCMP
+$CMP 74279262_WE-CBF_0603
+D Würth Elektronik 0.37µ Ipk=0.5A Rser=0.3Ohm Rpar=172Ohm Cpar=0.545pF
+$ENDCMP
+$CMP 742792023_WE-CBF_0805
+D Würth Elektronik 0.377µ Ipk=3A Rser=0.027Ohm Rpar=177Ohm Cpar=0.847pF
+$ENDCMP
+$CMP 74279271_WE-CBF_0402
+D Würth Elektronik 0.38µ Ipk=0.5A Rser=0.245Ohm Rpar=200Ohm Cpar=0.35pF
+$ENDCMP
+$CMP 782853121_WE-CBA_0805
+D Würth Elektronik 0.38µ Ipk=2.5A Rser=0.0301Ohm Rpar=198Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 7427927218_WE-CBF_0402
+D Würth Elektronik 0.39µ Ipk=0.4A Rser=0.167Ohm Rpar=230Ohm Cpar=0.288pF
+$ENDCMP
+$CMP 7427521_Com
+D Würth Elektronik 0.4µ Ipk=5A Rser=0.00078Ohm Rpar=65Ohm Cpar=0.0001pF
+$ENDCMP
+$CMP 74279242_WE-CBF_1806
+D Würth Elektronik 0.4µ Ipk=3A Rser=0.04Ohm Rpar=221Ohm Cpar=0.62pF
+$ENDCMP
+$CMP 74276031_WE-WAFB_4535
+D Würth Elektronik 0.42µ Ipk=3A Rser=0.00325Ohm Rpar=80Ohm Cpar=0.001pF
+$ENDCMP
+$CMP 782422221_WE-CBA_0402
+D Würth Elektronik 0.43µ Ipk=0.3A Rser=0.184Ohm Rpar=330Ohm Cpar=0.37pF
+$ENDCMP
+$CMP 74279202_WE-CBF_0805
+D Würth Elektronik 0.431µ Ipk=0.5A Rser=0.065Ohm Rpar=144Ohm Cpar=0.0032pF
+$ENDCMP
+$CMP 742792622_WE-CBF_0603
+D Würth Elektronik 0.434µ Ipk=0.5A Rser=0.3Ohm Rpar=277Ohm Cpar=0.68pF
+$ENDCMP
+$CMP 742792038_WE-CBF_0805
+D Würth Elektronik 0.435µ Ipk=0.2A Rser=0.024Ohm Rpar=302Ohm Cpar=1.5pF
+$ENDCMP
+$CMP 74279224151_WE-MPSB_2220
+D Würth Elektronik 0.439µ Ipk=5A Rser=0.0069Ohm Rpar=195.6Ohm Cpar=0.199pF
+$ENDCMP
+$CMP 742792035_WE-CBF_0805
+D Würth Elektronik 0.448µ Ipk=0.25A Rser=0.3Ohm Rpar=430Ohm Cpar=0.855pF
+$ENDCMP
+$CMP 782632121_WE-CBA_0603
+D Würth Elektronik 0.45µ Ipk=0.5A Rser=0.074Ohm Rpar=180Ohm Cpar=0.45pF
+$ENDCMP
+$CMP 742843122_WE-CBF_HF_0402
+D Würth Elektronik 0.46µ Ipk=0.5A Rser=0.26Ohm Rpar=540Ohm Cpar=0.128pF
+$ENDCMP
+$CMP 74279220181_WE-MPSB_0805
+D Würth Elektronik 0.47µ Ipk=3.1A Rser=0.037Ohm Rpar=190Ohm Cpar=2.6pF
+$ENDCMP
+$CMP 742792640_WE-CBF_0603
+D Würth Elektronik 0.47µ Ipk=0.3A Rser=0.25Ohm Rpar=1950Ohm Cpar=0.8pF
+$ENDCMP
+$CMP 7427931_WE-PBF_8530
+D Würth Elektronik 0.49µ Ipk=6A Rser=0.00074Ohm Rpar=100Ohm Cpar=0.09pF
+$ENDCMP
+$CMP 782632181_WE-CBA_0603
+D Würth Elektronik 0.5µ Ipk=0.5A Rser=0.133Ohm Rpar=255Ohm Cpar=0.53pF
+$ENDCMP
+$CMP 74279212_WE-CBF_1206
+D Würth Elektronik 0.508µ Ipk=0.3A Rser=0.065Ohm Rpar=172Ohm Cpar=0.35pF
+$ENDCMP
+$CMP 74279264_WE-CBF_0603
+D Würth Elektronik 0.516µ Ipk=0.2A Rser=0.35Ohm Rpar=484Ohm Cpar=0.48pF
+$ENDCMP
+$CMP 74279263_WE-CBF_0603
+D Würth Elektronik 0.523µ Ipk=0.5A Rser=0.3Ohm Rpar=330Ohm Cpar=0.49pF
+$ENDCMP
+$CMP 742792122_WE-CBF_1206
+D Würth Elektronik 0.54µ Ipk=0.3A Rser=0.055Ohm Rpar=300Ohm Cpar=1.04pF
+$ENDCMP
+$CMP 74279224171_WE-MPSB_2220
+D Würth Elektronik 0.542µ Ipk=4A Rser=0.0103Ohm Rpar=277.6Ohm Cpar=240.8pF
+$ENDCMP
+$CMP 74279224181_WE-MPSB_2220
+D Würth Elektronik 0.542µ Ipk=5A Rser=0.0071Ohm Rpar=236.2Ohm Cpar=0.306pF
+$ENDCMP
+$CMP 74279278_WE-CBF_0402
+D Würth Elektronik 0.55µ Ipk=0.2A Rser=0.425Ohm Rpar=339Ohm Cpar=0.013pF
+$ENDCMP
+$CMP 742792034_WE-CBF_0805
+D Würth Elektronik 0.563µ Ipk=0.3A Rser=0.3Ohm Rpar=352Ohm Cpar=0.664pF
+$ENDCMP
+$CMP 742792022_WE-CBF_0805
+D Würth Elektronik 0.564µ Ipk=2A Rser=0.05Ohm Rpar=360Ohm Cpar=0.68pF
+$ENDCMP
+$CMP 782631331_WE-CBA_0603
+D Würth Elektronik 0.57µ Ipk=0.2A Rser=0.149Ohm Rpar=690Ohm Cpar=0.62pF
+$ENDCMP
+$CMP 74276051_WE-WAFB_7835
+D Würth Elektronik 0.58µ Ipk=3A Rser=0.0032Ohm Rpar=105Ohm Cpar=0.01pF
+$ENDCMP
+$CMP 7427603_WE-WAFB_4535
+D Würth Elektronik 0.6µ Ipk=3A Rser=0.0032Ohm Rpar=100Ohm Cpar=0.4pF
+$ENDCMP
+$CMP 742863122_WE-CBF_HF_0603
+D Würth Elektronik 0.6µ Ipk=0.6A Rser=0.109Ohm Rpar=535Ohm Cpar=0.213pF
+$ENDCMP
+$CMP 782422101_WE-CBA_0402
+D Würth Elektronik 0.6µ Ipk=0.3A Rser=0.219Ohm Rpar=120.5Ohm Cpar=0.279pF
+$ENDCMP
+$CMP 742792043_WE-CBF_0805
+D Würth Elektronik 0.61µ Ipk=0.2A Rser=0.173Ohm Rpar=6300Ohm Cpar=1.2pF
+$ENDCMP
+$CMP 74279273_WE-CBF_0402
+D Würth Elektronik 0.622µ Ipk=0.3A Rser=0.2Ohm Rpar=24Ohm Cpar=0.348pF
+$ENDCMP
+$CMP 742692004_WE-TMSB_0201
+D Würth Elektronik 0.63µ Ipk=0.2A Rser=0.44Ohm Rpar=220Ohm Cpar=0.113pF
+$ENDCMP
+$CMP 782853221_WE-CBA_0805
+D Würth Elektronik 0.63µ Ipk=2A Rser=0.031Ohm Rpar=220Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 74279252_WE-CBF_1812
+D Würth Elektronik 0.633µ Ipk=4A Rser=0.035Ohm Rpar=1012Ohm Cpar=4pF
+$ENDCMP
+$CMP 742792631_WE-CBF_0603
+D Würth Elektronik 0.67µ Ipk=0.2A Rser=0.4Ohm Rpar=384Ohm Cpar=0.56pF
+$ENDCMP
+$CMP 742792780_WE-CBF_0402
+D Würth Elektronik 0.67µ Ipk=0.3A Rser=0.115Ohm Rpar=270Ohm Cpar=0.42pF
+$ENDCMP
+$CMP 742792653_WE-CBF_0603
+D Würth Elektronik 0.68µ Ipk=0.3A Rser=0.437Ohm Rpar=5400Ohm Cpar=1pF
+$ENDCMP
+$CMP 7427604_WE-WAFB_6035
+D Würth Elektronik 0.7µ Ipk=3A Rser=0.0033Ohm Rpar=115Ohm Cpar=0.01pF
+$ENDCMP
+$CMP 742792042_WE-CBF_0805
+D Würth Elektronik 0.7µ Ipk=0.2A Rser=0.5Ohm Rpar=3380Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 742792643_WE-CBF_0603
+D Würth Elektronik 0.7µ Ipk=0.4A Rser=0.138Ohm Rpar=810Ohm Cpar=0.76pF
+$ENDCMP
+$CMP 74276041_WE-WAFB_6035
+D Würth Elektronik 0.72µ Ipk=3A Rser=0.0033Ohm Rpar=90Ohm Cpar=0.001pF
+$ENDCMP
+$CMP 7427927141_WE-CBF_0402
+D Würth Elektronik 0.73µ Ipk=0.25A Rser=0.363Ohm Rpar=1240Ohm Cpar=0.374pF
+$ENDCMP
+$CMP 74279272_WE-CBF_0402
+D Würth Elektronik 0.76µ Ipk=0.2A Rser=0.46Ohm Rpar=332Ohm Cpar=0.316pF
+$ENDCMP
+$CMP 7427927161_WE-CBF_0402
+D Würth Elektronik 0.77µ Ipk=0.25A Rser=0.313Ohm Rpar=1300Ohm Cpar=0.38pF
+$ENDCMP
+$CMP 742792037_WE-CBF_0805
+D Würth Elektronik 0.775µ Ipk=2A Rser=0.08Ohm Rpar=362Ohm Cpar=0.863pF
+$ENDCMP
+$CMP 7427932_WE-PBF_7847
+D Würth Elektronik 0.78µ Ipk=6A Rser=0.00079Ohm Rpar=105Ohm Cpar=0.28pF
+$ENDCMP
+$CMP 782422331_WE-CBA_0402
+D Würth Elektronik 0.78µ Ipk=0.3A Rser=0.359Ohm Rpar=535Ohm Cpar=0.445pF
+$ENDCMP
+$CMP 742792641_WE-CBF_0603
+D Würth Elektronik 0.782µ Ipk=2A Rser=0.15Ohm Rpar=503Ohm Cpar=0.462pF
+$ENDCMP
+$CMP 74279224251_WE-MPSB_2220
+D Würth Elektronik 0.802µ Ipk=4A Rser=0.008071Ohm Rpar=301Ohm Cpar=1.849pF
+$ENDCMP
+$CMP 74279221281_WE-MPSB_1206
+D Würth Elektronik 0.82µ Ipk=3.5A Rser=35Ohm Rpar=290Ohm Cpar=2pF
+$ENDCMP
+$CMP 7427602_WE-WAFB_8335
+D Würth Elektronik 0.85µ Ipk=3A Rser=0.0032Ohm Rpar=150Ohm Cpar=0.05pF
+$ENDCMP
+$CMP 74276032_WE-WAFB_5035
+D Würth Elektronik 0.85µ Ipk=6A Rser=0.0032Ohm Rpar=105Ohm Cpar=0.5pF
+$ENDCMP
+$CMP 742792113_WE-CBF_1206
+D Würth Elektronik 0.855µ Ipk=3A Rser=0.022Ohm Rpar=343Ohm Cpar=1.7pF
+$ENDCMP
+$CMP 742792045_WE-CBF_0805
+D Würth Elektronik 0.89µ Ipk=0.2A Rser=0.112Ohm Rpar=1080Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 742750421_Com
+D Würth Elektronik 0.9µ Ipk=3A Rser=0.0023Ohm Rpar=200Ohm Cpar=0.1pF
+$ENDCMP
+$CMP 7427605_WE-WAFB_7535
+D Würth Elektronik 0.9µ Ipk=3A Rser=0.0033Ohm Rpar=135Ohm Cpar=0.05pF
+$ENDCMP
+$CMP 742792901_WE-PF_1280
+D Würth Elektronik 0.917µ Ipk=10A Rser=0.024Ohm Rpar=1800Ohm Cpar=3.6pF
+$ENDCMP
+$CMP 742792121_WE-CBF_1206
+D Würth Elektronik 0.95µ Ipk=3A Rser=0.029Ohm Rpar=290Ohm Cpar=1.45pF
+$ENDCMP
+$CMP 782762301_WE-CBA_1206
+D Würth Elektronik 0.95µ Ipk=0.3A Rser=0.048Ohm Rpar=360Ohm Cpar=1.3pF
+$ENDCMP
+$CMP 74279224271_WE-MPSB_2220
+D Würth Elektronik 0.951µ Ipk=4A Rser=0.019Ohm Rpar=360.3Ohm Cpar=0.607pF
+$ENDCMP
+$CMP 74279220321_WE-MPSB_0805
+D Würth Elektronik 0.96µ Ipk=2.5A Rser=0.05Ohm Rpar=355Ohm Cpar=1.5pF
+$ENDCMP
+$CMP 742792716_WE-CBF_0402
+D Würth Elektronik 0.985µ Ipk=0.3A Rser=0.138Ohm Rpar=145Ohm Cpar=0.33pF
+$ENDCMP
+$CMP 782422601_WE-CBA_0402
+D Würth Elektronik 1µ Ipk=0.2A Rser=0.562Ohm Rpar=750Ohm Cpar=0.35pF
+$ENDCMP
+$CMP 742792036_WE-CBF_0805
+D Würth Elektronik 1.018µ Ipk=0.2A Rser=0.13Ohm Rpar=559Ohm Cpar=0.884pF
+$ENDCMP
+$CMP 782851102_WE-CBA_0805
+D Würth Elektronik 1.08µ Ipk=0.3A Rser=0.2Ohm Rpar=1035Ohm Cpar=1.005pF
+$ENDCMP
+$CMP 742861118_WE-CBF_HF_0603
+D Würth Elektronik 1.1µ Ipk=0.2A Rser=0.22Ohm Rpar=300Ohm Cpar=0.32pF
+$ENDCMP
+$CMP 742862160_WE-CBF_HF_0603
+D Würth Elektronik 1.1µ Ipk=0.1A Rser=0.88Ohm Rpar=2000Ohm Cpar=0.08pF
+$ENDCMP
+$CMP 742863147_WE-CBF_HF_0603
+D Würth Elektronik 1.1µ Ipk=0.5A Rser=0.173Ohm Rpar=1000Ohm Cpar=0.115pF
+$ENDCMP
+$CMP 742792124_WE-CBF_1206
+D Würth Elektronik 1.113µ Ipk=0.2A Rser=0.11Ohm Rpar=540Ohm Cpar=1.928pF
+$ENDCMP
+$CMP 7427927261_WE-CBF_0402
+D Würth Elektronik 1.15µ Ipk=0.1A Rser=0.53Ohm Rpar=760Ohm Cpar=0.56pF
+$ENDCMP
+$CMP 742792664_WE-CBF_0603
+D Würth Elektronik 1.16µ Ipk=0.3A Rser=0.29Ohm Rpar=1800Ohm Cpar=0.79pF
+$ENDCMP
+$CMP 742792642_WE-CBF_0603
+D Würth Elektronik 1.164µ Ipk=0.2A Rser=0.45Ohm Rpar=662Ohm Cpar=0.608pF
+$ENDCMP
+$CMP 742750421_Single
+D Würth Elektronik 1.2µ Ipk=3A Rser=0.0023Ohm Rpar=275Ohm Cpar=1.4pF
+$ENDCMP
+$CMP 7427606_WE-WAFB_9035
+D Würth Elektronik 1.2µ Ipk=3A Rser=0.0033Ohm Rpar=130Ohm Cpar=0.01pF
+$ENDCMP
+$CMP 742792041_WE-CBF_0805
+D Würth Elektronik 1.2µ Ipk=0.2A Rser=0.4Ohm Rpar=730Ohm Cpar=0.791pF
+$ENDCMP
+$CMP 742792031_WE-CBF_0805
+D Würth Elektronik 1.21µ Ipk=3A Rser=0.067Ohm Rpar=330Ohm Cpar=1.12pF
+$ENDCMP
+$CMP 742792131_WE-CBF_1206
+D Würth Elektronik 1.267µ Ipk=0.2A Rser=0.1Ohm Rpar=620Ohm Cpar=1.213pF
+$ENDCMP
+$CMP 742792094_WE-CBF_0805
+D Würth Elektronik 1.3µ Ipk=0.2A Rser=0.158Ohm Rpar=2500Ohm Cpar=1.2pF
+$ENDCMP
+$CMP 742792645_WE-CBF_0603
+D Würth Elektronik 1.3µ Ipk=1A Rser=0.13Ohm Rpar=420Ohm Cpar=0.7pF
+$ENDCMP
+$CMP 742841160_WE-CBF_HF_0402
+D Würth Elektronik 1.3µ Ipk=0.1A Rser=0.75Ohm Rpar=1300Ohm Cpar=0.118pF
+$ENDCMP
+$CMP 74279204_WE-CBF_0805
+D Würth Elektronik 1.381µ Ipk=0.2A Rser=0.35Ohm Rpar=754Ohm Cpar=0.784pF
+$ENDCMP
+$CMP 742792651_WE-CBF_0603
+D Würth Elektronik 1.384µ Ipk=1A Rser=0.2Ohm Rpar=813Ohm Cpar=0.617pF
+$ENDCMP
+$CMP 742792091_WE-CBF_0805
+D Würth Elektronik 1.385µ Ipk=0.2A Rser=0.55Ohm Rpar=1500Ohm Cpar=1.04pF
+$ENDCMP
+$CMP 742792090_WE-CBF_0805
+D Würth Elektronik 1.4µ Ipk=0.2A Rser=0.22Ohm Rpar=2350Ohm Cpar=1.2pF
+$ENDCMP
+$CMP 742792514_WE-CBF_1812
+D Würth Elektronik 1.4µ Ipk=3A Rser=0.034Ohm Rpar=809Ohm Cpar=3.9pF
+$ENDCMP
+$CMP 7427927281_WE-CBF_0402
+D Würth Elektronik 1.4µ Ipk=0.05A Rser=0.489Ohm Rpar=530Ohm Cpar=0.36pF
+$ENDCMP
+$CMP 742861210_WE-CBF_HF_0603
+D Würth Elektronik 1.4µ Ipk=0.05A Rser=1.15Ohm Rpar=2200Ohm Cpar=0.083pF
+$ENDCMP
+$CMP 782632511_WE-CBA_0603
+D Würth Elektronik 1.4µ Ipk=0.2A Rser=0.2Ohm Rpar=638Ohm Cpar=0.6pF
+$ENDCMP
+$CMP 742792040_WE-CBF_0805
+D Würth Elektronik 1.43µ Ipk=2A Rser=0.15Ohm Rpar=830Ohm Cpar=0.836pF
+$ENDCMP
+$CMP 74279213_WE-CBF_1206
+D Würth Elektronik 1.45µ Ipk=0.2A Rser=0.1Ohm Rpar=623Ohm Cpar=1.845pF
+$ENDCMP
+$CMP 742792663_WE-CBF_0603
+D Würth Elektronik 1.45µ Ipk=0.1A Rser=0.331Ohm Rpar=1320Ohm Cpar=0.57pF
+$ENDCMP
+$CMP 74279209_WE-CBF_0805
+D Würth Elektronik 1.47µ Ipk=0.2A Rser=0.55Ohm Rpar=1458Ohm Cpar=0.986pF
+$ENDCMP
+$CMP 74279224401_WE-MPSB_2220
+D Würth Elektronik 1.47µ Ipk=4.5A Rser=0.014Ohm Rpar=435Ohm Cpar=1.895pF
+$ENDCMP
+$CMP 742792095_WE-CBF_0805
+D Würth Elektronik 1.5µ Ipk=0.2A Rser=0.34Ohm Rpar=3700Ohm Cpar=1.4pF
+$ENDCMP
+$CMP 74279221601_WE-MPSB_1206
+D Würth Elektronik 1.5µ Ipk=2.5A Rser=50Ohm Rpar=580Ohm Cpar=2.4pF
+$ENDCMP
+$CMP 742863160_WE-CBF_HF_0603
+D Würth Elektronik 1.5µ Ipk=0.5A Rser=0.21Ohm Rpar=1400Ohm Cpar=0.133pF
+$ENDCMP
+$CMP 782631222_WE-CBA_0603
+D Würth Elektronik 1.5µ Ipk=0.05A Rser=0.57Ohm Rpar=2286Ohm Cpar=1.057pF
+$ENDCMP
+$CMP 74279218_WE-CBF_1206
+D Würth Elektronik 1.542µ Ipk=2A Rser=0.045Ohm Rpar=587Ohm Cpar=1.216pF
+$ENDCMP
+$CMP 74279224551_WE-MPSB_2220
+D Würth Elektronik 1.59µ Ipk=4A Rser=0.017Ohm Rpar=641.7Ohm Cpar=0.471pF
+$ENDCMP
+$CMP 7427927160_WE-CBF_0402
+D Würth Elektronik 1.6µ Ipk=0.4A Rser=0.3Ohm Rpar=930Ohm Cpar=0.54pF
+$ENDCMP
+$CMP 7427927291_WE-CBF_0402
+D Würth Elektronik 1.6µ Ipk=0.3A Rser=0.505Ohm Rpar=570Ohm Cpar=0.36pF
+$ENDCMP
+$CMP 74279279_WE-CBF_0402
+D Würth Elektronik 1.614µ Ipk=0.2A Rser=0.66Ohm Rpar=815Ohm Cpar=0.179pF
+$ENDCMP
+$CMP 742792116_WE-CBF_1206
+D Würth Elektronik 1.62µ Ipk=2.5A Rser=0.045Ohm Rpar=550Ohm Cpar=1.179pF
+$ENDCMP
+$CMP 742792133_WE-CBF_1206
+D Würth Elektronik 1.644µ Ipk=0.5A Rser=0.19Ohm Rpar=910Ohm Cpar=3.103pF
+$ENDCMP
+$CMP 742841210_WE-CBF_HF_0402
+D Würth Elektronik 1.7µ Ipk=0.05A Rser=1.31Ohm Rpar=1700Ohm Cpar=0.086pF
+$ENDCMP
+$CMP 782422511_WE-CBA_0402
+D Würth Elektronik 1.7µ Ipk=0.2A Rser=0.562Ohm Rpar=650Ohm Cpar=0.33pF
+$ENDCMP
+$CMP 742792118_WE-CBF_1206
+D Würth Elektronik 1.8µ Ipk=2.5A Rser=0.07Ohm Rpar=620Ohm Cpar=1.9pF
+$ENDCMP
+$CMP 74279220601_WE-MPSB_0805
+D Würth Elektronik 1.8µ Ipk=2.1A Rser=0.08Ohm Rpar=545Ohm Cpar=1.3pF
+$ENDCMP
+$CMP 74279265_WE-CBF_0603
+D Würth Elektronik 1.8µ Ipk=0.2A Rser=0.45Ohm Rpar=752Ohm Cpar=0.67pF
+$ENDCMP
+$CMP 782422102_WE-CBA_0402
+D Würth Elektronik 1.8µ Ipk=0.2A Rser=0.70494Ohm Rpar=1050Ohm Cpar=0.59pF
+$ENDCMP
+$CMP 742792515_WE-CBF_1812
+D Würth Elektronik 1.895µ Ipk=3A Rser=0.023Ohm Rpar=1616Ohm Cpar=3.6pF
+$ENDCMP
+$CMP 782631182_WE-CBA_0603
+D Würth Elektronik 1.9µ Ipk=0.2A Rser=0.66Ohm Rpar=2250Ohm Cpar=0.8pF
+$ENDCMP
+$CMP 742730021_WE-MLS_1111
+D Würth Elektronik 2µ Ipk=4A Rser=0.0016Ohm Rpar=150Ohm Cpar=0.001pF
+$ENDCMP
+$CMP 74279205_WE-CBF_0805
+D Würth Elektronik 2µ Ipk=0.2A Rser=0.45Ohm Rpar=1198Ohm Cpar=0.853pF
+$ENDCMP
+$CMP 7427927241_WE-CBF_0402
+D Würth Elektronik 2µ Ipk=0.1A Rser=0.65Ohm Rpar=620Ohm Cpar=0.35pF
+$ENDCMP
+$CMP 742792032_WE-CBF_0805
+D Würth Elektronik 2.07µ Ipk=0.3A Rser=0.066Ohm Rpar=495Ohm Cpar=1.25pF
+$ENDCMP
+$CMP 74279214_WE-CBF_1206
+D Würth Elektronik 2.074µ Ipk=0.2A Rser=0.125Ohm Rpar=1100Ohm Cpar=1.367pF
+$ENDCMP
+$CMP 7427511_WE-SUKW_8050
+D Würth Elektronik 2.1µ Ipk=5A Rser=0.0075Ohm Rpar=450Ohm Cpar=1.2pF
+$ENDCMP
+$CMP 742792902_WE-PF_1280
+D Würth Elektronik 2.2µ Ipk=8A Rser=0.0059Ohm Rpar=4700Ohm Cpar=3pF
+$ENDCMP
+$CMP 782853561_WE-CBA_0805
+D Würth Elektronik 2.2µ Ipk=2A Rser=0.056Ohm Rpar=500Ohm Cpar=1pF
+$ENDCMP
+$CMP 782851202_WE-CBA_0805
+D Würth Elektronik 2.25µ Ipk=0.2A Rser=0.295Ohm Rpar=2350Ohm Cpar=0.915pF
+$ENDCMP
+$CMP 74279266_WE-CBF_0603
+D Würth Elektronik 2.393µ Ipk=0.2A Rser=0.6Ohm Rpar=1290Ohm Cpar=0.604pF
+$ENDCMP
+$CMP 742792692_WE-CBF_0603
+D Würth Elektronik 2.4µ Ipk=0.05A Rser=0.8Ohm Rpar=1940Ohm Cpar=0.672pF
+$ENDCMP
+$CMP 742750421_Diff
+D Würth Elektronik 2.5µ Ipk=3A Rser=0.0023Ohm Rpar=475Ohm Cpar=1.75pF
+$ENDCMP
+$CMP 782633601_WE-CBA_0603
+D Würth Elektronik 2.5µ Ipk=1A Rser=0.157Ohm Rpar=605Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 742792693_WE-CBF_0603
+D Würth Elektronik 2.58µ Ipk=0.05A Rser=0.8Ohm Rpar=2054Ohm Cpar=0.911pF
+$ENDCMP
+$CMP 74279269_WE-CBF_0603
+D Würth Elektronik 2.583µ Ipk=0.05A Rser=0.7Ohm Rpar=1336Ohm Cpar=0.622pF
+$ENDCMP
+$CMP 7427920415_WE-CBF_0805
+D Würth Elektronik 2.6µ Ipk=0.5A Rser=0.27Ohm Rpar=540Ohm Cpar=1.04pF
+$ENDCMP
+$CMP 742792656_WE-CBF_0603
+D Würth Elektronik 2.6µ Ipk=0.4A Rser=0.135Ohm Rpar=790Ohm Cpar=0.78pF
+$ENDCMP
+$CMP 742792796_WE-CBF_0402
+D Würth Elektronik 2.6µ Ipk=0.2A Rser=0.662Ohm Rpar=1100Ohm Cpar=0.58pF
+$ENDCMP
+$CMP 74275022_WE-UKW_40060
+D Würth Elektronik 2.7µ Ipk=3A Rser=0.016Ohm Rpar=500Ohm Cpar=0.7pF
+$ENDCMP
+$CMP 742792695_WE-CBF_0603
+D Würth Elektronik 2.7µ Ipk=0.05A Rser=0.401Ohm Rpar=2600Ohm Cpar=0.73pF
+$ENDCMP
+$CMP 742792903_WE-PF_1280
+D Würth Elektronik 2.8µ Ipk=10A Rser=0.0052Ohm Rpar=5600Ohm Cpar=5.6pF
+$ENDCMP
+$CMP 74273001_WE-MLS_7650
+D Würth Elektronik 3µ Ipk=4A Rser=0.0019Ohm Rpar=290Ohm Cpar=0.385pF
+$ENDCMP
+$CMP 742792691_WE-CBF_0603
+D Würth Elektronik 3.08µ Ipk=0.05A Rser=0.7Ohm Rpar=1817Ohm Cpar=0.808pF
+$ENDCMP
+$CMP 74279216_WE-CBF_1206
+D Würth Elektronik 3.188µ Ipk=0.2A Rser=0.085Ohm Rpar=1522Ohm Cpar=1.72pF
+$ENDCMP
+$CMP 74275023_WE-UKW_60200
+D Würth Elektronik 3.2µ Ipk=3A Rser=0.00825Ohm Rpar=1160Ohm Cpar=1.9pF
+$ENDCMP
+$CMP 742792662_WE-CBF_0603
+D Würth Elektronik 3.3µ Ipk=0.6A Rser=0.23Ohm Rpar=1050Ohm Cpar=0.68pF
+$ENDCMP
+$CMP 742730023_WE-MLS_1111
+D Würth Elektronik 3.4µ Ipk=4A Rser=0.0024Ohm Rpar=365Ohm Cpar=0.33pF
+$ENDCMP
+$CMP 7427512_WE-SUKW_11046
+D Würth Elektronik 3.4µ Ipk=5A Rser=0.009Ohm Rpar=690Ohm Cpar=0.2pF
+$ENDCMP
+$CMP 742792093_WE-CBF_0805
+D Würth Elektronik 3.42µ Ipk=0.2A Rser=0.6Ohm Rpar=2780Ohm Cpar=0.97pF
+$ENDCMP
+$CMP 782632102_WE-CBA_0603
+D Würth Elektronik 3.5µ Ipk=0.2A Rser=0.257Ohm Rpar=850Ohm Cpar=0.88pF
+$ENDCMP
+$CMP 74279244_WE-CBF_1806
+D Würth Elektronik 3.5414µ Ipk=1.5A Rser=0.06Ohm Rpar=1146Ohm Cpar=2.55pF
+$ENDCMP
+$CMP 742792092_WE-CBF_0805
+D Würth Elektronik 3.642µ Ipk=0.2A Rser=0.6Ohm Rpar=2700Ohm Cpar=1.122pF
+$ENDCMP
+$CMP 742730022_WE-MLS_1111
+D Würth Elektronik 3.7µ Ipk=4A Rser=0.00175Ohm Rpar=290Ohm Cpar=0.31pF
+$ENDCMP
+$CMP 782763102_WE-CBA_1206
+D Würth Elektronik 3.7µ Ipk=1A Rser=0.179Ohm Rpar=1100Ohm Cpar=1.15pF
+$ENDCMP
+$CMP 74273002_WE-MLS_1111
+D Würth Elektronik 4µ Ipk=4A Rser=0.00165Ohm Rpar=300Ohm Cpar=0.43pF
+$ENDCMP
+$CMP 742861160_WE-CBF_HF_0603
+D Würth Elektronik 4.2µ Ipk=0.1A Rser=0.26Ohm Rpar=900Ohm Cpar=0.11pF
+$ENDCMP
+$CMP 742792904_WE-PF_1280
+D Würth Elektronik 4.3µ Ipk=7A Rser=0.00678Ohm Rpar=7000Ohm Cpar=3.1pF
+$ENDCMP
+$CMP 742792141_WE-CBF_1206
+D Würth Elektronik 4.6µ Ipk=1A Rser=0.107Ohm Rpar=1050Ohm Cpar=1.145pF
+$ENDCMP
+$CMP 742792906_WE-PF_1280
+D Würth Elektronik 4.9µ Ipk=6.5A Rser=0.0085Ohm Rpar=9200Ohm Cpar=6.6pF
+$ENDCMP
+$CMP 7427504_WE-UKW_40060
+D Würth Elektronik 5µ Ipk=3A Rser=0.0128Ohm Rpar=940Ohm Cpar=2pF
+$ENDCMP
+$CMP 782853112_WE-CBA_0805
+D Würth Elektronik 5µ Ipk=1A Rser=0.295Ohm Rpar=1400Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 742792096_WE-CBF_0805
+D Würth Elektronik 5.3µ Ipk=1A Rser=0.172Ohm Rpar=1080Ohm Cpar=1.3pF
+$ENDCMP
+$CMP 74275043_WE-UKW_60380
+D Würth Elektronik 5.4µ Ipk=3A Rser=0.0135Ohm Rpar=1100Ohm Cpar=2pF
+$ENDCMP
+$CMP 74275046_WE-UKW_25060
+D Würth Elektronik 5.5µ Ipk=3A Rser=0.00712Ohm Rpar=1020Ohm Cpar=1.9pF
+$ENDCMP
+$CMP 74275013_WE-UKW_60200
+D Würth Elektronik 6µ Ipk=3A Rser=0.0102Ohm Rpar=1220Ohm Cpar=1.9pF
+$ENDCMP
+$CMP 782853152_WE-CBA_0805
+D Würth Elektronik 6µ Ipk=1A Rser=0.286Ohm Rpar=1650Ohm Cpar=1pF
+$ENDCMP
+$CMP 742792907_WE-PF_1280
+D Würth Elektronik 6.1µ Ipk=6A Rser=0.014Ohm Rpar=7800Ohm Cpar=6.1pF
+$ENDCMP
+$CMP 74279219_WE-CBF_1206
+D Würth Elektronik 7.3µ Ipk=0.2A Rser=0.292Ohm Rpar=2150Ohm Cpar=1.5pF
+$ENDCMP
+$CMP 742792910_WE-PF_1280
+D Würth Elektronik 7.7µ Ipk=5.5A Rser=0.0149Ohm Rpar=10300Ohm Cpar=8.9pF
+$ENDCMP
+$CMP 74275011_WE-UKW_25060
+D Würth Elektronik 8µ Ipk=3A Rser=0.0069Ohm Rpar=690Ohm Cpar=2pF
+$ENDCMP
+$CMP 7427502_WE-UKW_40060
+D Würth Elektronik 8µ Ipk=3A Rser=0.0123Ohm Rpar=830Ohm Cpar=1pF
+$ENDCMP
+$CMP 742792097_WE-CBF_0805
+D Würth Elektronik 8.3µ Ipk=1A Rser=0.261Ohm Rpar=1570Ohm Cpar=1.34pF
+$ENDCMP
+$CMP 7427929112_WE-PF_1280
+D Würth Elektronik 10.4µ Ipk=5A Rser=0.0162Ohm Rpar=10900Ohm Cpar=9.7pF
+$ENDCMP
+$CMP 7427501_WE-UKW_40060
+D Würth Elektronik 12µ Ipk=3A Rser=0.0118Ohm Rpar=870Ohm Cpar=1.1pF
+$ENDCMP
+$CMP 74275010_WE-UKW_6050
+D Würth Elektronik 12µ Ipk=3A Rser=0.0083Ohm Rpar=880Ohm Cpar=0.715pF
+$ENDCMP
+$CMP 7427929115_WE-PF_1280
+D Würth Elektronik 12.4µ Ipk=4.5A Rser=0.0175Ohm Rpar=12800Ohm Cpar=8.5pF
+$ENDCMP
+$CMP 7427503_WE-UKW_40060
+D Würth Elektronik 14µ Ipk=3A Rser=0.0122Ohm Rpar=870Ohm Cpar=1pF
+$ENDCMP
+#End Doc Library

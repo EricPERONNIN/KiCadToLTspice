@@ -1,0 +1,50 @@
+*----------------------------------------------------------
+.subckt AD8034_8pins_2opAmps 1out 1in- 1in+ vcc- 2in+ 2in- 2out vcc+
+.lib ADI.lib
+XA 1in+ 1in- vcc+ vcc- 1out AD8033
+XB 2in+ 2in- vcc+ vcc- 2out AD8033
+.ends
+* Multipart model for AD746. Based on model AD746 located in .lib  ADI1.lib
+.subckt AD746_8pins_2opAmps 1out 1in- 1in+ vcc- 2in+ 2in- 2out vcc+
+.lib  ADI1.lib
+XA 1in+ 1in- vcc+ vcc- 1out AD746
+XB 2in+ 2in- vcc+ vcc- 2out AD746
+.ends
+* Multipart model for AD8092. Based on model AD8092 located in ADI.lib
+.subckt AD8092_8pins_2opAmps out1 in1- in1+ vcc- in2+ in2- out2 vcc+
+.lib ADI.lib
+XA in1+ in1- vcc+ vcc- out1 AD8092
+XB in2+ in2- vcc+ vcc- out2 AD8092
+.ends
+* Multipart model for AD8040. Based on model AD8040 located in ADI.lib
+.subckt AD8040_14pins_4opAmps out1 in1- in1+ vcc+ in2+ in2- out2 out3 in3- in3+ vcc- in4+ in4- out4
+.lib ADI.lib
+XA in1+ in1- vcc+ vcc- out1 AD8040
+XB in2+ in2- vcc+ vcc- out2 AD8040
+XC in3+ in3- vcc+ vcc- out3 AD8040
+XD in4+ in4- vcc+ vcc- out4 AD8040
+.ends
+* Multipart model for AD8040. Based on model AD8040 located in ADI.lib
+.subckt AD8040_14pins_4opAmps out1 in1- in1+ vcc+ in2+ in2- out2 out3 in3- in3+ vcc- in4+ in4- out4
+.lib ADI.lib
+XA in1+ in1- vcc+ vcc- out1 AD8040
+XB in2+ in2- vcc+ vcc- out2 AD8040
+XC in3+ in3- vcc+ vcc- out3 AD8040
+XD in4+ in4- vcc+ vcc- out4 AD8040
+.ends
+* Multipart model for LF347. Based on model LF347 located in ti.lib
+.subckt LF347_14pins_4opAmps out1 in1- in1+ vcc+ in2+ in2- out2 out3 in3- in3+ vcc- in4+ in4- out4
+.include ti.lib
+XA in1+ in1- vcc+ vcc- out1 LF347
+XB in2+ in2- vcc+ vcc- out2 LF347
+XC in3+ in3- vcc+ vcc- out3 LF347
+XD in4+ in4- vcc+ vcc- out4 LF347
+.ends
+* Multipart model for TLC27L4-102. Based on model TLC27L4-102 located in ti.lib
+.subckt TLC27L4-102_14pins_4opAmps out1 in1- in1+ vcc+ in2+ in2- out2 out3 in3- in3+ vcc- in4+ in4- out4
+.include ti.lib
+XA in1+ in1- vcc+ vcc- out1 TLC27L4-102
+XB in2+ in2- vcc+ vcc- out2 TLC27L4-102
+XC in3+ in3- vcc+ vcc- out3 TLC27L4-102
+XD in4+ in4- vcc+ vcc- out4 TLC27L4-102
+.ends

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8034_8pins_2opAmps
+D Dual OpAmp
+$ENDCMP
+#
+$CMP DualOpAmp_8pins
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+$ENDCMP
+#
+$CMP QuadOpAmp_14pins
+D Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+$ENDCMP
+#
+$CMP SimpleOpAmp_5pins
+D Simple Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K simple opamp
+$ENDCMP
+#
+$CMP SimpleOpAmp_8pins
+D Simple Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K simple opamp
+$ENDCMP
+#
+#End Doc Library

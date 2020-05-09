@@ -1,0 +1,152 @@
+EESchema-DOCLIB  Version 2.0
+$CMP bi
+D  Arbitrary behavioral current source
+$ENDCMP
+$CMP bi2
+D  Arbitrary behavioral current source
+$ENDCMP
+$CMP bv
+D  Arbitrary behavioral voltage source
+$ENDCMP
+$CMP cap
+D  Capacitor
+$ENDCMP
+$CMP csw
+D  Current controlled switch
+$ENDCMP
+$CMP current
+D  Current source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+$ENDCMP
+$CMP diode
+D  Diode
+$ENDCMP
+$CMP e
+D  Voltage dependent voltage source
+$ENDCMP
+$CMP e2
+D  Voltage dependent voltage source
+$ENDCMP
+$CMP f
+D  Linear current dependent current source
+$ENDCMP
+$CMP FerriteBead
+D  A Ferrite Bead
+$ENDCMP
+$CMP FerriteBead2
+D  A Ferrite Bead(Alternate symbol)
+$ENDCMP
+$CMP g
+D  Voltage dependent current source
+$ENDCMP
+$CMP g2
+D  Voltage dependent current source
+$ENDCMP
+$CMP h
+D  Linear current dependent voltage source
+$ENDCMP
+$CMP ind
+D  Inductor
+$ENDCMP
+$CMP ind2
+D  Inductor
+$ENDCMP
+$CMP ISO16750-2
+D  Spice library :  4-6-3_12V_StartingProfile  ISO-16750-2 Transients
+$ENDCMP
+$CMP ISO7637-2
+D  Spice library :  Pulse1_12V  ISO-7637-2 Transeints
+$ENDCMP
+$CMP LED
+D  Light Emitting Diode
+$ENDCMP
+$CMP load
+D  Current Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+$ENDCMP
+$CMP load2
+D  Current Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+$ENDCMP
+$CMP lpnp
+D  Bipolar Lateral PNP transistor.  You would normally use this with your own .model statement.
+$ENDCMP
+$CMP ltline
+D  Lossy Transmission Line.  Note: You must supply the .model for this device
+$ENDCMP
+$CMP mesfet
+D  GaAs MESFET transistor  Note: You must supply the .model for this device
+$ENDCMP
+$CMP njf
+D  N-Channel JFET
+$ENDCMP
+$CMP nmos
+D  N-Channel MOSFET transistor
+$ENDCMP
+$CMP nmos4
+D  N-Channel MOSFET transistor with explicit substrate connection(used for monolithic MOSFETS)
+$ENDCMP
+$CMP npn
+D  Bipolar NPN transistor
+$ENDCMP
+$CMP npn2
+D  Bipolar NPN transistor
+$ENDCMP
+$CMP npn3
+D  Bipolar NPN transistor
+$ENDCMP
+$CMP npn4
+D  Bipolar NPN transistor with substrate node.  You would normally use this with your own .model statement.
+$ENDCMP
+$CMP pjf
+D  P-Channel JFET transistor
+$ENDCMP
+$CMP pmos
+D  P-Channel MOSFET transistor
+$ENDCMP
+$CMP pmos4
+D  P-Channel MOSFET transistor with explicit substrate connection(used for monolithic MOSFETS)
+$ENDCMP
+$CMP pnp
+D  Bipolar PNP transistor
+$ENDCMP
+$CMP pnp2
+D  Bipolar PNP transistor
+$ENDCMP
+$CMP pnp4
+D  Bipolar PNP transistor with substrate node.  You would normally use this with your own .model statement.
+$ENDCMP
+$CMP polcap
+D  Polarized Capacitor
+$ENDCMP
+$CMP res
+D  A resistor
+$ENDCMP
+$CMP res2
+D  A resistor
+$ENDCMP
+$CMP schottky
+D  Schottky diode
+$ENDCMP
+$CMP SOAtherm-HeatSink
+D  Spice library :  copper  Heat Sink Thermal Model
+$ENDCMP
+$CMP SOAtherm-PCB
+D  Spice library :  TopsideCopper  PCB Thermal Model
+$ENDCMP
+$CMP sw
+D  Voltage controlled switch
+$ENDCMP
+$CMP tline
+D  Ideal Lossless Transmission Line
+$ENDCMP
+$CMP TVSdiode
+D  Zener Diode
+$ENDCMP
+$CMP varactor
+D  Diode
+$ENDCMP
+$CMP voltage
+D  Voltage Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+$ENDCMP
+$CMP zener
+D  Zener Diode
+$ENDCMP
+#End Doc Library

@@ -1,0 +1,26 @@
+#
+# %2%
+#
+DEF %2% L 0 40 N N 1 F N
+F0 "L" 0 100 50 H V C CNN
+F1 "%2%" 50 -50 50 H V C CNN
+F2 "" 0 0 50 V I C CNN
+F3 "%0%µ" 0 0 50 V V C CNN
+F4 "L" 0 -150 50 H I C CNN "Spice_Primitive"
+F5 "%0%µ Ipk=%3% Rser=%4% Rpar=%5% Cpar=%6%p mfg=\"%1%\" pn=\"%2%\"" 0 -200 50 H I C CNN "Spice_Model"
+F6 "Y" 0 -100 50 H I C CNN "Spice_Netlist_Enabled"
+$FPLIST
+ Choke_*
+ *Coil*
+ Inductor_*
+ L_*
+$ENDFPLIST
+DRAW
+A -75 0 25 1 1799 0 1 0 N -50 0 -100 0
+A -25 0 25 1 1799 0 1 0 N 0 0 -50 0
+A 25 0 25 1 1799 0 1 0 N 50 0 0 0
+A 75 0 25 1 1799 0 1 0 N 100 0 50 0
+X 1 1 -150 0 50 R 50 50 1 1 P
+X 2 2 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
