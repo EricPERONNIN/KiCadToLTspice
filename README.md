@@ -2,7 +2,7 @@
 A python script that interface KiCad to LTspice.
 
 This script allows you to :
-- configure simulation ac, dc, transient, op,
+- configure ac, dc, transient and op simulation,
 - adjust parameters for parametric simulation,
 - configure spice netlist for Monte Carlo and Worst Case analysis.
 
