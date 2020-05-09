@@ -157,6 +157,8 @@ def runSimulation(directive):
         # Data format for parameter variation
         if param[2] == "0":
             paramDirective += param[1]
+        if param[2] == "1":
+            paramDirective += param[3] + " " + param[4] + " " + param[5]
         if param[2] == "2":
             paramDirective += param[3] + " " + param[4] + " " + param[5]
         if param[2] == "3":
