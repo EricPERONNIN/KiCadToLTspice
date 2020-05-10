@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+#   ADP7158-3.3
+#  2A, Ultralow Noise, High PSRR, RF Linear Regulator
+# SpiceModel :  ADP7158_9.sub
+#
+DEF ADP7158-3.3 X 0 1 N Y 1 F N
+F0 "X" 0 300 50 H V C CNN
+F1 "ADP7158-3.3" 0 -300 50 H V C CNN
+F2 "" 0 0 50 V I C CNN
+F3 "www.analog.com/ADP7158_9 Vreg=3.611 Vref=3.316" 0 0 50 V I C CNN
+F4 "X" 0 0 50 H I C CNN "Spice_Primitive"
+F5 "ADP7158_9 Vreg=3.611 Vref=3.316*@ ADP7158_9.sub" 0 -300 50 H I C CNN "Spice_Model"
+F6 " 2A, Ultralow Noise, High PSRR, RF Linear Regulator " 0 0 50 V I C CNN "Information"
+F7 " Add directive : .lib  ADP7158_9.sub " 0 0 50 V I C CNN "Advice"
+$FPLIST
+ X_*
+$ENDFPLIST
+DRAW
+S 500 -650 -500 550 0 0 0 f
+T 0 0 0 50 0 0 1 " ADI"
+X Vout  1 500 450 0 L 50 50 1 1 P
+X Vout_Sense  3 500 150 0 L 50 50 1 1 P
+X Byp  4 -500 -150 0 R 50 50 1 1 P
+X EN  5 -500 150 0 R 50 50 1 1 P
+X Ref_Sense  6 500 -450 0 L 50 50 1 1 P
+X Ref  7 500 -150 0 L 50 50 1 1 P
+X Vreg  8 -500 -450 0 R 50 50 1 1 P
+X Vin  9 -500 450 0 R 50 50 1 1 P
+X GND  10 0 -650 0 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# End Library

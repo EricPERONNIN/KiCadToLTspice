@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+#End Doc Library
+$CMP ADP7158-3.3
+D  Spice library :  ADP7158_9.sub  2A, Ultralow Noise, High PSRR, RF Linear Regulator
+$ENDCMP
+#End Doc Library
