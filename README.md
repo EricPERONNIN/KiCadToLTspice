@@ -37,7 +37,7 @@ Script must be adapted for Mac OS X and Linux.
 Contact me when you will have done this.
 
 # Dons
-Si ce script vous donne satisfaction, vous pouvez faire un don sur mon Tipeee (https://fr.tipeee.com/ericcathylab).
+Si ce script vous donne satisfaction, vous pouvez faire un don sur mon Tipeee (https://fr.tipeee.com/ericcathylab) dont je reverse l'intégralité des sommes à des associations.
 
 
 
