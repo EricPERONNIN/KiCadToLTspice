@@ -9,7 +9,7 @@ This script allows you to :
 # Prerequisites
 **KiCad installed** (see https://kicad-pcb.org/download/windows/).
 **LTspiceXVII installed** (https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
-**Python 3 installed** (Windows Store or https://www.python.org/downloads/windows/).
+**Python 3 installed** (Windows Store or https://www.python.org/downloads/).
 
 # Windows version
 ## Installation
